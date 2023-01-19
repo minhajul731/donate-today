@@ -104,3 +104,88 @@ body {
     background-color: rgb(255, 82, 52);
     color: white;
 }
+
+/* donate today */
+.money-donate-container {
+    margin-bottom: 5%;
+}
+
+.donate-today {
+    margin-top: 200px;
+}
+
+.today-donate {
+    font-size: 30px;
+    text-align: center;
+}
+
+.today-donate-para {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 3%;
+}
+
+.money-amount {
+    display: flex;
+    margin-left: 30%;
+    margin-bottom: 60px;
+}
+
+.money-amount h3 {
+    margin-left: 40px;
+    color: gray;
+    padding: 10px 15px;
+}
+
+.money-2000tk {
+    background-color: rgba(255, 204, 195, 0.723);
+    color: rgb(255, 82, 52);
+    border: 2px solid rgb(255, 82, 52);
+    border-radius: 6px;
+    padding: 10px 15px;
+}
+
+.money-donate-amount-input {
+    border: none;
+    padding: 10px 80px;
+    text-decoration: none;
+    margin-bottom: 30px;
+    border-bottom: 2px solid gray;
+    width: 20%;
+    text-align: center;
+    margin-left: 34%;
+}
+
+.our-donate-plan-container {
+    margin-top: 200px;
+}
+
+.donate-plan-card {
+    display: flex;
+    padding: 10px 60px 10px;
+}
+
+.donate-plan-card-style {
+    padding: 20px 30px 60px;
+    margin: 30px;
+}
+
+#food-card-style {
+    background-color: rgba(196, 255, 196, 0.556);
+    border-radius: 2px;
+}
+
+#shelter-card-style {
+    background-color: rgba(255, 217, 196, 0.556);
+    border-radius: 2px;
+}
+
+#education-card-style {
+    background-color: rgba(255, 254, 196, 0.556);
+    border-radius: 2px;
+}
+
+.donate-plan-card-style p {
+    color: gray;
+}
