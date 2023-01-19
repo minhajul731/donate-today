@@ -1,0 +1,106 @@
+body {
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header section */
+.header-navigation {
+    display: flex;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 3px;
+    padding-bottom: 10px;
+    background-color: rgba(127, 127, 127, 0.144);
+}
+
+.icon-style {
+    width: 50px;
+}
+
+.logo-img-text {
+    display: flex;
+}
+
+.donate-today-text {
+    margin-top: 8px;
+    margin-left: 5px;
+    font-style: italic;
+    font-size: 25px;
+    font-weight: 700;
+    color: tomato;
+}
+
+.donate-today-text span {
+    color: black;
+}
+
+.navigation-button {
+    display: flex;
+    margin-left: 50%;
+    margin-top: 10px;
+}
+
+.navigation-button-style {
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgba(255, 99, 71, 0.079);
+    color: rgb(69, 69, 69);
+    margin-left: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.navigation-button-style:hover {
+    background-color: rgb(255, 82, 52);
+    color: white;
+}
+
+/* top banner */
+.top-banner-text {
+    background-image: url("media/images/donation7.jpg");
+    background-blend-mode: saturation;
+    background-color: rgba(54, 54, 54, 0.382);
+    min-height: 450px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.lets-help-text {
+    text-align: center;
+    margin-top: 4px;
+    padding-top: 20px;
+    color: white;
+    font-size: 50px;
+    text-shadow: 5px 5px 20px rgba(0, 0, 0, 0.852);
+}
+
+.more-in-need-text {
+    text-align: center;
+    margin-top: 3px;
+    padding-top: 10px;
+    color: white;
+    font-size: 50px;
+    text-shadow: 5px 5px 20px rgba(0, 0, 0, 0.852);
+}
+
+.top-banner-text p {
+    margin-top: 30px;
+    padding-top: 20px;
+    margin-left: 24%;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+    text-shadow: 5px 5px 20px rgba(0, 0, 0, 0.852);
+    width: 50%;
+}
+
+.dontae-button {
+    margin-left: 45%;
+    margin-top: 50px;
+    background-color: rgb(255, 82, 52);
+    color: white;
+}
