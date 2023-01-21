@@ -190,3 +190,31 @@ body {
 .donate-plan-card-style p {
     color: gray;
 }
+
+/* get my updates */
+.get-my-updates {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.input-button-container {
+    margin-left: 30%;
+    margin-right: 24%;
+    background-color: rgba(250, 235, 215, 0.829);
+    padding: 100px 150px;
+    border-radius: 6px;
+}
+
+.email-input-field {
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+
+.subscribe-button {
+    background-color: rgb(255, 82, 52);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 500;
+}
